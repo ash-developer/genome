@@ -1,0 +1,21 @@
+{
+  "name": "genome",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ash-developer",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.4.2",
+    "react": "^16.4.2"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lodash": "^4.17.10",
+    "prop-types": "^15.6.2",
+    "validate.js": "^0.12.0"
+  }
+}
